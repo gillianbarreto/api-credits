@@ -1,0 +1,10 @@
+node_modules/
+public/node_modules/
+settings.json
+scripts/
+coverage/
+.vscode
+package-lock.json
+.rest
+.env
+dist/
